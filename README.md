@@ -18,9 +18,7 @@
 📌 **More About Us:** [bitzappl.com/about](https://bitzappl.com/about)  
 📬 **Contact Us:** connect@bitzappl.com  
 
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BitZappl&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
----
+
 ### 🛠 Tech Stack
 
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
